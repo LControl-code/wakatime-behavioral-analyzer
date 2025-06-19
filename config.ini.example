@@ -1,0 +1,32 @@
+[wakatime]
+# Path to WakaTime CLI executable
+cli_path = C:\Users\USER\.wakatime\wakatime-cli-windows-amd64.exe
+
+# Path to WakaTime configuration file
+config_path = C:\Users\USER\.wakatime.cfg
+
+# Path to WakaTime log file
+log_path = C:\Users\USER\.wakatime\wakatime.log
+
+[project]
+# Project name for tracking
+name = behavioral_analysis_test
+
+# Project root directory
+path = C:\Development\test_project
+
+# JSON file containing project structure
+files_config = project_files.json
+
+[simulation]
+# Default simulation duration in minutes
+default_duration_minutes = 60
+
+# Log file for behavioral analysis
+log_file = behavioral_analysis.log
+
+# Enable mood state simulation (flow states, difficulty, etc.)
+enable_mood_states = true
+
+# Enable fatigue modeling over time
+enable_fatigue_modeling = true

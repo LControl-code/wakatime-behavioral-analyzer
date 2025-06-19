@@ -1,0 +1,58 @@
+{
+  "main.py": {
+    "lines": 250,
+    "language": "Python"
+  },
+  "utils.py": {
+    "lines": 150,
+    "language": "Python"
+  },
+  "config.py": {
+    "lines": 75,
+    "language": "Python"
+  },
+  "models.py": {
+    "lines": 300,
+    "language": "Python"
+  },
+  "test_suite.py": {
+    "lines": 200,
+    "language": "Python"
+  },
+  "README.md": {
+    "lines": 120,
+    "language": "Markdown"
+  },
+  "requirements.txt": {
+    "lines": 25,
+    "language": "Text"
+  },
+  "setup.py": {
+    "lines": 45,
+    "language": "Python"
+  },
+  ".gitignore": {
+    "lines": 15,
+    "language": "Text"
+  },
+  "docs/api.md": {
+    "lines": 200,
+    "language": "Markdown"
+  },
+  "docs/tutorial.md": {
+    "lines": 150,
+    "language": "Markdown"
+  },
+  "tests/__init__.py": {
+    "lines": 5,
+    "language": "Python"
+  },
+  "tests/test_models.py": {
+    "lines": 180,
+    "language": "Python"
+  },
+  "config.json": {
+    "lines": 50,
+    "language": "JSON"
+  }
+}

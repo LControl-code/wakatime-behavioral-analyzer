@@ -1,0 +1,13 @@
+# WakaTime Behavioral Pattern Analyzer Requirements
+# Python 3.7+ required
+
+# No external dependencies required - uses Python standard library only
+# This tool uses only built-in Python modules:
+# - subprocess (for CLI interaction)
+# - configparser (for configuration management)
+# - json (for data serialization)
+# - logging (for analysis output)
+# - random (for behavioral modeling)
+# - datetime (for temporal analysis)
+# - argparse (for CLI interface)
+# - pathlib (for cross-platform paths)
